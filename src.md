@@ -1,3 +1,14 @@
+### NGLaunchpad &middot; Contracting
+<div class="duration">Jan 2020 – Now</div>
+
+I joined NGLaunchpad as a Senior Software Engineer
+
+ - Setup the overall Azure cloud infrastructre using IaC (**Terraform**, **Azure**, **Cloudflare**)
+ - Setup Back End and Front End CI/CD using Azure DevOps
+ - Created and maintained a .NET Core REST API (**OpenAPI**, **.NET Core 3.0**, **CosmosDB**)
+ - Created and maintained multiple Vue.js codebases across multiple teams (**Vue.js**, **TypeScript** **Vue Router**, **Vuex**)
+ - Integrated multiple 3rd party services (**OpenAPI/Swagger**)
+
 ### Kano
 <div class="duration">Nov 2015 – Dec 2019 &middot; 4 yrs 1 mos</div>
 
