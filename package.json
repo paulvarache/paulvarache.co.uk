@@ -10,6 +10,6 @@
     "html-inline": "^1.2.0",
     "html-minify-stream": "^1.0.0",
     "marked": "^0.7.0",
-    "replace": "^1.1.1"
+    "replace": "^1.2.2"
   }
 }
